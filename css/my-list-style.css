@@ -53,25 +53,25 @@ nav ul li a:hover {
 
 .bgimg-1 {
     display: flex;
-    background-image: url("roma.jpg");
+    background-image: url(https://m.media-amazon.com/images/M/MV5BZDUyOTkxMTEtZmE5My00OTJlLTk3NjQtYThlN2NiMTJiOGY5XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SX1777_CR0,0,1777,999_AL_.jpg);
     min-height: 100%;
 }
 
 .bgimg-2 {
-    background-image: url("playa.jpg");
+    background-image: url(https://m.media-amazon.com/images/M/MV5BMTBhZGZhNWQtNGEwMS00M2RjLTkxNGYtNjU5NGNlOTJhMzE0XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg);
     min-height: 400px;
 }
 
 .bgimg-3 {
-    background-image: url("familia.jpg");
+    background-image: url(https://m.media-amazon.com/images/M/MV5BZDk3OTIxMmYtM2I0My00MDJiLWJlNGMtNGI2YTdiN2E5NDBlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX1777_CR0,0,1777,744_AL_.jpg);
     min-height: 400px;
 }
 .bgimg-4 {
-    background-image: url("cuaron.jpg");
+    background-image: url(https://m.media-amazon.com/images/M/MV5BMDA5MDJjMjMtNWY1Zi00M2E5LWIwNzgtZTQ5OTAwOTA2OTQ0XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg);
     min-height: 400px;
 }
 .bgimg-5 {
-    background-image: url("academy.jpg");
+    background-image: url(https://m.media-amazon.com/images/M/MV5BM2RkMWIxZDUtMTg4My00MWI5LWI2ODMtODkwYjU4MWFjNDE4XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_SY1000_SX1600_AL_.jpg);
     min-height: 800px;
 }
 
