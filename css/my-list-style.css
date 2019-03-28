@@ -53,25 +53,25 @@ nav ul li a:hover {
 
 .bgimg-1 {
     display: flex;
-    background-image: url("../images/roma.jpg");
+    background-image: url("roma.jpg");
     min-height: 100%;
 }
 
 .bgimg-2 {
-    background-image: url("../images/playa.jpg");
+    background-image: url("playa.jpg");
     min-height: 400px;
 }
 
 .bgimg-3 {
-    background-image: url("../images/familia.jpg");
+    background-image: url("familia.jpg");
     min-height: 400px;
 }
 .bgimg-4 {
-    background-image: url("../images/cuaron.jpg");
+    background-image: url("cuaron.jpg");
     min-height: 400px;
 }
 .bgimg-5 {
-    background-image: url("../images/academy.jpg");
+    background-image: url("academy.jpg");
     min-height: 800px;
 }
 
